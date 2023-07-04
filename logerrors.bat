@@ -1,1 +1,0 @@
-Fritolay.bat > normallogs.txt 2> errorlogs.txt
